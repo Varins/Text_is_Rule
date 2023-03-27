@@ -1,3 +1,3 @@
 ﻿
-using var game = new Text_is_Rule.Game1();
+using var game = new Text_is_Rule.TextIsRuleGame();
 game.Run();
